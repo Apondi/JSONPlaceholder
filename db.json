@@ -1,8 +1,5 @@
 {
   "products": [
     { "id": "12345", "name": "Colgate", "price": 20.20 },
-    { "id": "6164003477727", "name": "Lucozade Boost", "price": 54.50},
-    { "id": "4004675000439", "name": "Schneider Maxx 290", "price": 14.25},
-    { "id": "6091035019277", "name": "Vital Mineral Water", "price": 35.50}
   ]
 }
