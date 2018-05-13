@@ -1,5 +1,5 @@
 {
   "products": [
-    { "id": "12345", "name": "Colgate", "price": 20.20 },
+    { "id": "12345", "name": "Colgate", "price": 20.20 }
   ]
 }
