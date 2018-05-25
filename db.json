@@ -3,16 +3,19 @@
       {  
          "id":"6164003477727",
          "name":"Lucozade Boost",
+         "description":"Energy to sustain your whole day",
          "price":54.50
       },
       {  
          "id":"4004675000439",
          "name":"Schneider Maxx 290",
+         "description":"Simply the best",
          "price":14.25
       },
       {  
          "id":"6091035019277",
          "name":"Vital Mineral Water",
+         "description":"Water is life",
          "price":35.50
       }
    ]
